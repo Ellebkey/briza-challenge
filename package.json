@@ -1,0 +1,26 @@
+{
+  "name": "typescript-jest-replit-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briza-insurance/typescript-jest-replit-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briza-insurance/typescript-jest-replit-shell/issues"
+  },
+  "homepage": "https://github.com/briza-insurance/typescript-jest-replit-shell#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.2",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.3.5"
+  }
+}
